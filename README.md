@@ -1,6 +1,3 @@
-# Hi there 👋
-***
-
 <div style="text-align: center">
     <h2>Welcome, I'm Timur</h2>
     <b>Backend/Frontend developer from Saint-Petersburg</b>
