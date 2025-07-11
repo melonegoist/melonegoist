@@ -1,5 +1,24 @@
 ## Hi there 👋
 
+<div style="text-align: center">
+    <h1>Welcome, I'm Timur</h1>
+    <b>Backend/Frontend developer from Saint-Petersburg</b>
+</div>
+
+<br />
+
+<div style="text-align: center">
+    <a href="https://t.me/melon_egoist/">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logoColor=white" alt="my tg"/>
+    </a>
+    <a href="https://t.me/melon_egoist/">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logoColor=white" alt="my tg"/>
+    </a>
+    <a href="https://vk.com/melon_egoist/">
+        <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logoColor=white" alt="my tg"/>
+    </a>
+</div>
+
 <!--
 **melonegoist/melonegoist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
